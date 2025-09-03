@@ -130,17 +130,6 @@ The project includes sample data for 45 employees across 6 departments:
 - Operations (6 employees)
 - Customer Service (5 employees)
 
-## Contributing
-
-This is an academic project demonstrating advanced data structures and C++ programming concepts. 
-
-## License
-
-Educational/Academic use. Created as part of computer science coursework.
-
-## Portfolio
-This project is included in my ePortfolio: https://sullivan52.github.io
-
 ---
 
 *This project demonstrates proficiency in advanced data structures, algorithm implementation, memory management, and software engineering best practices.*
